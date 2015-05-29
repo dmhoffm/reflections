@@ -6,3 +6,7 @@ when you want to start using git on a top level directory and make it a git repo
 How can you use the staging area to make sure you have one commit per logical change?
 
 just add files related to that single change into the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When there are some experimental changes that I'm not going to either commit or when there are changes that won't be committed in a linear time order
