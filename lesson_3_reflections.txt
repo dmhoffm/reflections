@@ -9,3 +9,8 @@ Because you may have work in progress that you want stable until you are ready t
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks when you want to make a variant on github of another's github repository and you may not have write access; clone when you want to make a local variant of another's repository on the same or different machine(it will be managed independently if local); branch when you want to make a variant of your repository and have it managed as part of that repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+
+You can use the local git tools to operate on the remote branch, including merge, diff and log
