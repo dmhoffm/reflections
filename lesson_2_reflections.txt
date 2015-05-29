@@ -18,3 +18,7 @@ The help me understand the parenting of the commits and where the labeled branch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The latest commit has two parents and the latest commit has the label of the current head
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro for auto is that many logically independent changes which are physically independent are reconciled automatically. COns are that changes which are logically in conflict may be physically independent and give a false positive on the auto merge
