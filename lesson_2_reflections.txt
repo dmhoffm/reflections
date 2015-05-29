@@ -1,0 +1,5 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+when you want to start using git on a top level directory and make it a git repository
+
