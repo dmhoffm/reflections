@@ -14,3 +14,7 @@ When there are some experimental changes that I'm not going to either commit or 
 How do the diagrams help you visualize the branch structure?
 
 The help me understand the parenting of the commits and where the labeled branchnes are
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The latest commit has two parents and the latest commit has the label of the current head
