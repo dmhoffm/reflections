@@ -18,3 +18,7 @@ You can use the local git tools to operate on the remote branch, including merge
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without git or github, we would be updating a common directory and/or sending our source trees back and forth.  We would be utilizing lots of email and diff tools.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A separate branch when I'm trying out changes that I'm not sure that I'll want to commit, or when I'm working on a feature that would pushed up to a remote and then merged with a pull request.  Master only when I'm not collaborating and am working on the main item (not an experimental variant).
